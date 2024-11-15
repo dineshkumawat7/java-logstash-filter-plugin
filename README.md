@@ -1,0 +1,1 @@
+# java-logstash-filter-plugin
